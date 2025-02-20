@@ -11,7 +11,7 @@ body {
     background: white; /* Define o fundo branco */
 }
 .topo {
-    background: green; /* Define a cor de fundo */
+    background: rgb(214, 97, 2); /* Define a cor de fundo */
     height: 15%; /* Define altura do topo */
     text-align: center; /* Centraliza o texto */
     color: white; /* Define cor do texto */
@@ -45,7 +45,7 @@ body {
     border: 5px solid white; /* Adiciona uma borda branca */
 }
 .rodape {
-    background: green; /* Define cor de fundo */
+    background: rgb(0, 31, 117); /* Define cor de fundo */
     height: 10%; /* Define altura do rodapé */
     text-align: center; /* Centraliza o texto */
     color: white; /* Define cor do texto */
